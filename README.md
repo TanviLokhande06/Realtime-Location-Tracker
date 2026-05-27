@@ -38,7 +38,7 @@ This app allows users to share and track live locations on an interactive map in
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/real-time-tracking-app.git
+git clone https://github.com/TanviLokhande06/Realtime-Location-Tracker.git
 ```
 
 ### 2. Navigate to project folder
